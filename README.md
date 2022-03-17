@@ -10,4 +10,4 @@ Dato che abbiamo in mente di fare uscire diversi nuovi programmi a breve, è seg
 No, non deve essere installato, basta scaricarlo ed avviarlo. L'unico requisito è avere il [.NET 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.2-windows-x64-installer) installato sul prorprio pc.
 
 ## Dove si può scaricare?
-Si può scaricare da Github nella sezione [Releases](https://github.com/inspector-development/Inspector.-Software-Downloader/releases/tag/v1.0.0) oppure dal nostro server [discord](https://discord.gg/UxsZeYFz7q) o da questo link [mega](https://mega.nz/file/v8dCGDqA#YQ3VwTDIbrGmShJI2oPkloPRDbyTPuCKm-D_8TDTvgU).
+Si può scaricare da Github nella sezione [Releases](https://github.com/inspector-development/Inspector.-Software-Downloader/releases/tag/v1.0.0) oppure dal nostro server [discord](https://discord.gg/UxsZeYFz7q) o da questo link [mega](https://mega.nz/file/60U0gTgL#cimxW_9jOnUoyX2lcFsDTVNsLXY_4tn0L-bCGXWAkKI).
