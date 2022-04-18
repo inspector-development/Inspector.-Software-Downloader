@@ -1,7 +1,7 @@
 ## Inspector. Software Downloader
 Piccolo e semplice software che permette di scaricare i nostri software sempre aggiornati
 
-![alt text](https://cdn.discordapp.com/attachments/944339095142940712/947774585414234172/unknown.png)
+![alt text](https://cdn.discordapp.com/attachments/944339095142940712/964974478255874099/unknown.png)
 
 ## Perchè è nato?
 Dato che abbiamo in mente di fare uscire diversi nuovi programmi a breve, è seguita la decisione da parte nostra nel voler rilasciare un nostro downloader, dove verranno pubblicati tutti gli aggiornamenti, senza la necessità da parte nostra di aggiornare il link mega sul nostro server [discord](https://discord.gg/UxsZeYFz7q), ma con la possibilità di scaricare sempre l'ultima versione direttamente da quest'ultimo.
